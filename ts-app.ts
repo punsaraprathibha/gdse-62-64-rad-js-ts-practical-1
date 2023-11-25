@@ -1,4 +1,4 @@
-function greet(name: String): String {
+function greet(name: string): string {
     return `Hello ${name}`;
 }
 
